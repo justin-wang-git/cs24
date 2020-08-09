@@ -1,3 +1,12 @@
 # cs24
 
-CS24 was a class where I learned basic data structures in depth, such as linked lists, binary search trees, and custom data structures using the struct function in C++.  Additionally, I gained more experience programming in Visual Studio Code and VIM for C++ and compilation in OSX terminal.  Basic memory allocation (stack and heap) and Big O notation was also covered in some depth.  
+CS24 was a class covering data structures.  
+
+
+What I learned:
+- basic data structures (nodes, single and double linked lists, binary search trees, creating custom data structures using structs)
+- using const in function parameters
+- abstraction 
+- Complexity analysis (Big O notation)
+- How to more efficiently troubleshoot programs
+
